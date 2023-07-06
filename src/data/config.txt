@@ -1,0 +1,4 @@
+Resolution,1366,720
+Fullscreen,true
+
+# NO SPACES
